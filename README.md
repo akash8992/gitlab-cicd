@@ -1,1 +1,3 @@
-# gitlab-cicd
+# Employee Portal
+
+Employee portal Gitlab project
